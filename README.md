@@ -18,7 +18,7 @@ This is a simple blog application built using Python and the Flask web framework
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/flask-blog.git`
+1. Clone the repository: `https://github.com/Marvyn21/flask-blog.git`
 2. Navigate to the project directory: `cd flask-blog`
 3. Create and activate a virtual environment (optional but recommended)
 4. Install the required packages: `pip install -r requirements.txt`
